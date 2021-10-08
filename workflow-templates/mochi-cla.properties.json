@@ -1,0 +1,5 @@
+{
+    "name": "Mochi CLA Workflow",
+    "description": "Validates that a CLA is on file for PR contributors",
+    "iconName": "mochi-cla-icon"
+}
